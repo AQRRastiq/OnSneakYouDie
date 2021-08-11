@@ -1,0 +1,7 @@
+name: OnSneakYouDie
+version: 1.0-SNAPSHOT
+main: com.rastiq.osyd.OSYD
+commands:
+  osyd:
+    usage: /osyd <start/stop>
+    description: Starts and stops the OnSneakYouDie challenge!
